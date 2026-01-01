@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Saudi Airlines - Home</title>
+</head>
+<body>
+
+    <!-- Header -->
+    <header>
+        <img src="logo.png" alt="Saudi Airlines Logo">
+        <nav>
+            <a href="index.html">Home</a> |
+            <a href="login.html">Login</a>
+        </nav>
+    </header>
+
+    <hr>
+
+    <!-- Main Content -->
+    <main>
+        <h1>Welcome to Saudi Airlines</h1>
+
+        <!-- Flight Search Form -->
+        <form>
+            <label>From:</label><br>
+            <input type="text" placeholder="Departure City"><br><br>
+
+            <label>To:</label><br>
+            <input type="text" placeholder="Destination City"><br><br>
+
+            <label>Date:</label><br>
+            <input type="date"><br><br>
+
+            <button type="submit">Search Flight</button>
+        </form>
+
+        <p>Experience comfort and safety with Saudi Airlines.</p>
+    </main>
+
+    <hr>
+
+    <!-- Footer -->
+    <footer>
+        <p>© Saudi Airlines</p>
+        <p>Connecting the Kingdom to the World</p>
+    </footer>
+
+</body>
+</html>

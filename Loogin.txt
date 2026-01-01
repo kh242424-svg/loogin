@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Saudi Airlines - Login</title>
+
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/5/w3.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+
+<header>
+    <img src="saudi.png" alt="Saudi Airlines Logo">
+    <nav>
+        <a href="index.html">Home</a> |
+        <a href="login.html">Login</a>
+    </nav>
+</header>
+
+<hr>
+
+<main>
+    <h1>Login</h1>
+
+    <form>
+        <label>Username:</label><br>
+        <input type="text" placeholder="Enter username"><br><br>
+
+        <label>Password:</label><br>
+        <input type="password" placeholder="Enter password"><br><br>
+
+        <button type="submit">Login</button>
+    </form>
+</main>
+
+<hr>
+
+<footer>
+    <p>©️ Saudi Airlines</p>
+    <p>Connecting the Kingdom to the World</p>
+</footer>
+
+</body>
+</html>
